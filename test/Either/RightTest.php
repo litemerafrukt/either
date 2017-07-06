@@ -5,7 +5,7 @@ namespace litemerafrukt\Either;
 use \PHPUnit\Framework\TestCase;
 
 /**
- * Test cases for Left
+ * Test cases for Right
  */
 
 class RightTest extends TestCase
