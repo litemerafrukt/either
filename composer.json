@@ -1,0 +1,27 @@
+{
+    "name": "litemerafrukt/either",
+    "description": "Either type for php.",
+    "type": "library",
+    "keywords": ["anax", "types", "either", "functional"],
+    "homepage": "http://litemerafrukt.se",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anders Nygren",
+            "email": "litemerafrukt@gmail.com",
+            "homepage": "http://litemerafrukt.se",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/litemerafrukt/either/issues"
+    },
+    "autoload": {
+        "psr-4": {
+            "litemerafrukt\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.6"
+    }
+}
